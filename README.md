@@ -1,0 +1,2 @@
+# PhotoshopJSX-ExportWholeArtboardToPNG
+【PhotoshopJSX】複数あるアートボード全体をそれぞれの名前付きでpng書き出しするスクリプト
