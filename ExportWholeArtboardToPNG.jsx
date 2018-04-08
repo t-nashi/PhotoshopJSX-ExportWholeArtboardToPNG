@@ -8,7 +8,7 @@ app.bringToFront();		// アプリケーション(photoshop)を最善面に持っ
  * Copyright (c) 2018 Tsutomu Takanashi
  * 
  * Project home:
- * 	https://github.com/t-nashi/xxxxxx
+ * 	https://github.com/t-nashi/PhotoshopJSX-ExportWholeArtboardToPNG
  * 
  * This software is released under the MIT License:
  * 	https://opensource.org/licenses/mit-license.php
