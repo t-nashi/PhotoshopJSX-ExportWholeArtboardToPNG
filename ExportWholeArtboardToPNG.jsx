@@ -54,6 +54,7 @@ preferences.rulerUnits = Units.PIXELS;	// 単位をpxに設定
 try{
 	if(documents.length !== 0){
 		_doc = app.activeDocument;
+		_doc.activeLayer = _doc.layers[_doc.layers.length-1];	// スクリプト実行時エラー回避
 
 		//※※ 処理実行トリガー ※※※
 		run();
@@ -80,6 +81,7 @@ function run(){
 	// アートボードを全てただのレイヤーにする
 	for(var i=0; i<ChildLyaers.length; i++){
 		var _activeLayer = _doc.layers[i];
+		_doc.activeLayer = _activeLayer;	// スクリプト実行時エラー回避
 
 		// レイヤーの種類や数で処理を変える
 		if(_activeLayer.typename == "LayerSet" && 1 <= _activeLayer.layers.length){
