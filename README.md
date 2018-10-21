@@ -18,6 +18,11 @@
 <br><br><br>
 
 
+## 動作イメージ
+![photoshopjsx-exportwholeartboardtopng](https://user-images.githubusercontent.com/5539081/47267915-f48bc480-d584-11e8-8121-7a38814dc81e.gif)
+<br><br><br>
+
+
 
 ## 注意 （Cautionn）
 
