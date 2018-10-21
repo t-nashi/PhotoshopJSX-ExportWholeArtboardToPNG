@@ -9,6 +9,7 @@
 
 ▽動作確認済み
 * Adobe Photoshop CC 2018 （Windows10、macOS High Sierra(v10.13.3)）
+* Adobe Photoshop CC 2019 （Windows10、macOS Mojave(v10.14)）
 <br><br><br>
 
 
